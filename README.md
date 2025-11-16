@@ -48,14 +48,7 @@ source venv/bin/activate
 
 #### 3. Instale as dependências
 
-Crie um arquivo `requirements.txt` na raiz do projeto com o seguinte conteúdo:
-
-```
-google-generativeai
-python-dotenv
-```
-
-Em seguida, instale-o:
+Instale-o:
 
 ```bash
 pip install -r requirements.txt
